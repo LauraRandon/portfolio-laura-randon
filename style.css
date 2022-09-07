@@ -132,10 +132,7 @@ h2 {
     display: block;
 }
 .fullwidth:hover {
-    background-color: black;
-    opacity: 67%;
-    content: 'Découvrir';
-    color: #738172;
+    filter: brightness(30%);
 }
 .card-body {
     display: block;
