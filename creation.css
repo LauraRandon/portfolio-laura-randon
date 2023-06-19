@@ -8,6 +8,9 @@
     font-family: "Gistesy";
     src: url(font/Gistesy.ttf);
 }
+html{
+    scroll-behavior: smooth;
+}
 body {
     box-sizing: border-box;
     margin: 0;
